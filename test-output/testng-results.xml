@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-23T16:22:51 IST" name="Default suite" finished-at="2024-03-23T16:23:21 IST" duration-ms="29754">
+    <groups>
+    </groups>
+    <test started-at="2024-03-23T16:22:51 IST" name="Default test" finished-at="2024-03-23T16:23:21 IST" duration-ms="29754">
+      <class name="com.Guru_E_Commerce.TestCase6">
+        <test-method is-config="true" signature="bf()[pri:0, instance:com.Guru_E_Commerce.TestCase6@60bd273d]" started-at="2024-03-23T16:22:51 IST" name="bf" finished-at="2024-03-23T16:23:00 IST" duration-ms="8863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method signature="verifyPurchaseProduct()[pri:0, instance:com.Guru_E_Commerce.TestCase6@60bd273d]" started-at="2024-03-23T16:23:00 IST" name="verifyPurchaseProduct" finished-at="2024-03-23T16:23:21 IST" duration-ms="20503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPurchaseProduct -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:com.Guru_E_Commerce.TestCase6@60bd273d]" started-at="2024-03-23T16:23:21 IST" name="ac" finished-at="2024-03-23T16:23:21 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- com.Guru_E_Commerce.TestCase6 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
